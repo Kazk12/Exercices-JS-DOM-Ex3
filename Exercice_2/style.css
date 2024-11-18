@@ -1,0 +1,6 @@
+.masquer {
+    visibility:hidden ;
+}
+.afficher {
+    display: block;
+}
